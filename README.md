@@ -1,4 +1,4 @@
-Creatwd by Shruti Maheshwari
+Edited by Shruti Maheshwari
 # Node.js
 
 Node.js is an open-source, cross-platform JavaScript runtime environment.
